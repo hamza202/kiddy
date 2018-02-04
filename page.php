@@ -48,8 +48,8 @@
         <section class="page_title wave">
             <div class="container">
                 <div class="title">
-                    <h1>Left Sidebar</h1></div>
-                <nav class="bread-crumbs"><a href="index.html">Home</a><i class="delimiter fa fa-chevron-right"></i><span class="current">Left Sidebar</span></nav>
+                    <h1>Page</h1></div>
+                <nav class="bread-crumbs"><a href="index.html">Home</a><i class="delimiter fa fa-chevron-right"></i><span class="current">Page</span></nav>
                 <!-- .breadcrumbs -->
             </div>
             <canvas class="breadcrumbs" data-bg-color="#f8f2dc" data-line-color="#f9e8b2" height="71" width="1366" style="height: 71px; width: 1366px;"></canvas>
