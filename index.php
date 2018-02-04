@@ -423,7 +423,7 @@
                                     <p style="text-align: center;">Libero commodo, ornare mi id, egestas metus.
                                         <br /> Vivamus condimentum elit vel vestibulum feugiat Aliquam
                                         <br /> semper nunc augue, vitae fringilla felis adipiscing ac.</p>
-                                    <p style="text-align: center;"> <a href='#' class='cws_button customized' data-bg_hover_color='#fec20b' data-bg_color='#3eb2cf' data-text_color='#fff'>Purchase Now</a> <a href='#' class='cws_button'>Learn More</a>
+                                    <p style="text-align: center;">  <a href='#' class='cws_button'>Learn More</a>
                                 </div>
                             </div>
                         </div>
