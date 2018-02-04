@@ -1,0 +1,22 @@
+.lang_bar li .iclflag{
+    width: 18px;
+    height: 12px;
+}
+.fast-link li a:hover{
+    text-decoration: none !important;
+}
+.fast-link li:hover i{
+    color: #26b4d7;
+    padding-left: 5px;
+}
+.fast-link li i{
+    transition: all 0.5s;
+}
+.footer_container .cws-widget{
+    flex: 0;
+    -webkit-flex: 0;
+    -ms-flex: 0;
+}
+.copyrights_area .cws_social_links .cws_social_link{
+    width: 28px;
+}
