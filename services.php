@@ -48,9 +48,9 @@
     <section class="page_title wave">
         <div class="container">
             <div class="title">
-                <h1>Page</h1></div>
+                <h1>Services</h1></div>
             <nav class="bread-crumbs"><a href="index.html">Home</a><i class="delimiter fa fa-chevron-right"></i><span
-                        class="current">Page</span></nav>
+                        class="current">services</span></nav>
             <!-- .breadcrumbs -->
         </div>
         <canvas class="breadcrumbs" data-bg-color="#f8f2dc" data-line-color="#f9e8b2" height="71" width="1366"
