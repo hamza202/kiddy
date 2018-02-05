@@ -39,11 +39,11 @@
         <?php include ('top-panel.php')?>
         <!-- / top panel -->
         <!-- slider and menu container -->
-        <div class='slider_vs_menu'>
+        <div class='slider_vs_menu' >
 
             <?php include ('Header.php')?>
 
-            <div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container">
+            <div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" >
                 <!-- START REVOLUTION SLIDER 5.0.9 fullwidth mode -->
                 <div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.0.9">
                     <ul>
@@ -58,17 +58,11 @@
                             <!-- LAYER NR. 2 -->
                             <div class="tp-caption home-h2   tp-resizeme rs-parallaxlevel-9" id="slide-1-layer-1" data-x="30" data-y="213" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; white-space: nowrap;">Welcome to
                             </div>
-                            <!-- LAYER NR. 3 -->
-                            <div class="tp-caption home-h1   tp-resizeme rs-parallaxlevel-9" id="slide-1-layer-2" data-x="30" data-y="275" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;">KIDDY!
-                            </div>
                             <!-- LAYER NR. 4 -->
-                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-22" data-x="30" data-y="345" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-responsive_offset="on" style="z-index: 8;border-color:rgba(0, 0, 0, 1.00);"><img src="pic/revslider/general/slider_devider.png" alt="" width="300" height="8" data-ww="300px" data-hh="8px" data-no-retina>
-                            </div>
-                            <!-- LAYER NR. 5 -->
-                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-3" data-x="30" data-y="385" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 9; white-space: nowrap; color: rgba(255, 255, 255, 1.00);font-family:Patrick Hand;border-color:rgba(0, 0, 0, 1.00);">A perfect learning center
+                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-22" data-x="30" data-y="280" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-responsive_offset="on" style="z-index: 8;border-color:rgba(0, 0, 0, 1.00);"><img src="pic/revslider/general/slider_devider.png" alt="" width="300" height="8" data-ww="300px" data-hh="8px" data-no-retina>
                             </div>
                             <!-- LAYER NR. 6 -->
-                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-4" data-x="29" data-y="413" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 10; white-space: nowrap; color: rgba(255, 255, 255, 1.00);font-family:Patrick Hand;border-color:rgba(0, 0, 0, 1.00);">for your kids
+                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-4" data-x="29" data-y="310" data-width="['350']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 10; white-space:normal; color: rgba(255, 255, 255, 1.00);font-family:Patrick Hand;border-color:rgba(0, 0, 0, 1.00);">for your kids for your kids for your kids
                             </div>
                             <!-- LAYER NR. 7 -->
                             <div class="tp-caption   tp-resizeme rs-parallaxlevel-10" id="slide-1-layer-5" data-x="-36" data-y="589" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:290;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="500" data-responsive_offset="on" style="z-index: 11;"><img src="pic/revslider/general/grass.png" alt="" width="1469" height="162" data-ww="1484px" data-hh="130px" data-no-retina>
@@ -120,79 +114,6 @@
                                 </div>
                             </div>
                         </li>
-                        <li data-index="rs-2" data-transition="random,fade" data-slotamount="7,7" data-easein="default,default" data-easeout="default,default" data-masterspeed="300,500" data-thumb="pic/2015/09/dots-pattern-100x50.png" data-rotate="0,0" data-saveperformance="off" data-title="Slide" data-description="">
-                            <!-- MAIN IMAGE -->
-                            <img src="img/dots-pattern.png" alt="" width="43" height="24" data-bgposition="center center" data-bgfit="normal" data-bgrepeat="repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
-                            <!-- LAYERS -->
-                            <!-- LAYER NR. 1 -->
-                            <div class="tp-caption   tp-resizeme rs-parallaxlevel-0" id="slide-1-layer-23" data-x="center" data-hoffset="" data-y="center" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="990" data-responsive_offset="on" style="z-index: 5;"><img src="pic/revslider/general/sunshine_home1.png" alt="" width="1920" height="650" data-ww="1920px" data-hh="650px" data-no-retina>
-                            </div>
-                            <!-- LAYER NR. 2 -->
-                            <div class="tp-caption home-h2   tp-resizeme rs-parallaxlevel-9" id="slide-1-layer-1" data-x="30" data-y="213" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; white-space: nowrap;">Welcome to
-                            </div>
-                            <!-- LAYER NR. 3 -->
-                            <div class="tp-caption home-h1   tp-resizeme rs-parallaxlevel-9" id="slide-1-layer-2" data-x="30" data-y="275" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;">KIDDY!
-                            </div>
-                            <!-- LAYER NR. 4 -->
-                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-22" data-x="30" data-y="345" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-responsive_offset="on" style="z-index: 8;border-color:rgba(0, 0, 0, 1.00);"><img src="pic/revslider/general/slider_devider.png" alt="" width="300" height="8" data-ww="300px" data-hh="8px" data-no-retina>
-                            </div>
-                            <!-- LAYER NR. 5 -->
-                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-3" data-x="30" data-y="385" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 9; white-space: nowrap; color: rgba(255, 255, 255, 1.00);font-family:Patrick Hand;border-color:rgba(0, 0, 0, 1.00);">A perfect learning center
-                            </div>
-                            <!-- LAYER NR. 6 -->
-                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-4" data-x="29" data-y="413" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 10; white-space: nowrap; color: rgba(255, 255, 255, 1.00);font-family:Patrick Hand;border-color:rgba(0, 0, 0, 1.00);">for your kids
-                            </div>
-                            <!-- LAYER NR. 7 -->
-                            <div class="tp-caption   tp-resizeme rs-parallaxlevel-10" id="slide-1-layer-5" data-x="-36" data-y="589" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:290;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="500" data-responsive_offset="on" style="z-index: 11;"><img src="pic/revslider/general/grass.png" alt="" width="1469" height="162" data-ww="1484px" data-hh="130px" data-no-retina>
-                            </div>
-                            <!-- LAYER NR. 8 -->
-                            <div class="tp-caption   tp-resizeme rs-parallaxlevel-8" id="slide-1-layer-7" data-x="761" data-y="186" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="500" data-responsive_offset="on" style="z-index: 12;"><img src="pic/revslider/general/rainbow.png" alt="" width="421" height="424" data-ww="398px" data-hh="424px" data-no-retina>
-                            </div>
-                            <!-- LAYER NR. 9 -->
-                            <div class="tp-caption   tp-resizeme rs-parallaxlevel-9" id="slide-1-layer-6" data-x="362" data-y="181" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="570" data-responsive_offset="on" style="z-index: 13;"><img src="pic/revslider/general/children.png" alt="" width="662" height="484" data-ww="662px" data-hh="484px" data-no-retina>
-                            </div>
-                            <!-- LAYER NR. 10 -->
-                            <div class="tp-caption   tp-resizeme rs-parallaxlevel-8" id="slide-1-layer-9" data-x="325" data-y="132" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0;sY:0;skX:0;skY:0;opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="990" data-responsive_offset="on" style="z-index: 14;">
-                                <div class="rs-looped rs-wave" data-speed="9" data-angle="0" data-radius="5px" data-origin="50% 50%"><img src="pic/revslider/general/cloud-1.png" alt="" width="91" height="37" data-ww="91px" data-hh="37px" data-no-retina>
-                                </div>
-                            </div>
-                            <!-- LAYER NR. 11 -->
-                            <div class="tp-caption   tp-resizeme rs-parallaxlevel-7" id="slide-1-layer-10" data-x="-117" data-y="311" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0;sY:0;skX:0;skY:0;opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0;sY:0;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="580" data-responsive_offset="on" style="z-index: 15;">
-                                <div class="rs-looped rs-wave" data-speed="9" data-angle="0" data-radius="5px" data-origin="50% 10%"><img src="pic/revslider/general/cloud-2.png" alt="" width="90" height="40" data-ww="90px" data-hh="40px" data-no-retina>
-                                </div>
-                            </div>
-                            <!-- LAYER NR. 12 -->
-                            <div class="tp-caption   tp-resizeme rs-parallaxlevel-8" id="slide-1-layer-13" data-x="1122" data-y="69" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0;sY:0;skX:0;skY:0;opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="790" data-responsive_offset="on" style="z-index: 16;">
-                                <div class="rs-looped rs-wave" data-speed="11" data-angle="0" data-radius="5px" data-origin="50% 50%"><img src="pic/revslider/general/cloud-5.png" alt="" width="180" height="72" data-ww="180px" data-hh="72px" data-no-retina>
-                                </div>
-                            </div>
-                            <!-- LAYER NR. 13 -->
-                            <div class="tp-caption   tp-resizeme rs-parallaxlevel-8" id="slide-1-layer-14" data-x="-127" data-y="70" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0;sY:0;skX:0;skY:0;opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="710" data-responsive_offset="on" style="z-index: 17;">
-                                <div class="rs-looped rs-wave" data-speed="9" data-angle="0" data-radius="5px" data-origin="50% 10%"><img src="pic/revslider/general/cloud-6.png" alt="" width="180" height="72" data-ww="180px" data-hh="72px" data-no-retina>
-                                </div>
-                            </div>
-                            <!-- LAYER NR. 14 -->
-                            <div class="tp-caption   tp-resizeme rs-parallaxlevel-6" id="slide-1-layer-18" data-x="898" data-y="50" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0;sY:0;skX:0;skY:0;opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="590" data-responsive_offset="on" style="z-index: 18;">
-                                <div class="rs-looped rs-wave" data-speed="9" data-angle="0" data-radius="10" data-origin="50% 50%"><img src="pic/revslider/general/cloud-2.png" alt="" width="90" height="40" data-ww="90px" data-hh="40px" data-no-retina>
-                                </div>
-                            </div>
-                            <!-- LAYER NR. 15 -->
-                            <div class="tp-caption   tp-resizeme rs-parallaxlevel-8" id="slide-1-layer-19" data-x="1259" data-y="528" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0;sY:0;skX:0;skY:0;opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="920" data-responsive_offset="on" style="z-index: 19;">
-                                <div class="rs-looped rs-wave" data-speed="12" data-angle="0" data-radius="10" data-origin="50% 50%"><img src="pic/revslider/general/cloud-1.png" alt="" width="91" height="37" data-ww="91px" data-hh="37px" data-no-retina>
-                                </div>
-                            </div>
-                            <!-- LAYER NR. 16 -->
-                            <div class="tp-caption   tp-resizeme rs-parallaxlevel-9" id="slide-1-layer-20" data-x="-243" data-y="478" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0;sY:0;skX:0;skY:0;opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="780" data-responsive_offset="on" style="z-index: 20;">
-                                <div class="rs-looped rs-wave" data-speed="11" data-angle="0" data-radius="5px" data-origin="50% 1%"><img src="pic/revslider/general/cloud-3.png" alt="" width="271" height="108" data-ww="271px" data-hh="108px" data-no-retina>
-                                </div>
-                            </div>
-                            <!-- LAYER NR. 17 -->
-                            <div class="tp-caption   tp-resizeme rs-parallaxlevel-8" id="slide-1-layer-21" data-x="1150" data-y="328" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0;sY:0;skX:0;skY:0;opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="990" data-responsive_offset="on" style="z-index: 21;">
-                                <div class="rs-looped rs-wave" data-speed="11" data-angle="0" data-radius="5px" data-origin="50% 50%"><img src="pic/revslider/general/cloud-4.png" alt="" width="271" height="108" data-ww="271px" data-hh="108px" data-no-retina>
-                                </div>
-                            </div>
-                        </li>
-
                     </ul>
                     <div class="tp-static-layers">
                     </div>
@@ -419,11 +340,7 @@
                         <div class='grid_col grid_col_12'>
                             <div class='ce clearfix'>
                                 <div>
-                                    <h3 class="ce_title" style="text-align: center;">We are <span >Kiddy</span><br /> Children HTML Template</h3>
-                                    <p style="text-align: center;">Libero commodo, ornare mi id, egestas metus.
-                                        <br /> Vivamus condimentum elit vel vestibulum feugiat Aliquam
-                                        <br /> semper nunc augue, vitae fringilla felis adipiscing ac.</p>
-                                    <p style="text-align: center;">  <a href='#' class='cws_button'>Learn More</a>
+                                    <h3 class="ce_title" style="text-align: center;"><span >Gallery</span><br /></h3>
                                 </div>
                             </div>
                         </div>
@@ -479,30 +396,11 @@
                                         <br style="clear: both" />
                                     </div>
                                 </div>
+                                <p style="text-align: center;">  <a href='#' class='cws_button'>more</a></p>
                             </div>
                         </div>
                     </div>
                     <!-- / gallery section -->
-                    <!-- section -->
-                    <div class='grid_row clearfix' style='padding-top: 50px;padding-bottom: 50px;'>
-                        <div class='grid_col grid_col_12'>
-                            <div class='ce clearfix'>
-                                <div class='cws_callout'>
-                                    <div class='content_section'>
-                                        <div class='callout_title'>
-                                            <div class="bees bees-end"><span></span></div>STILL NOT CONVINCED?</div>
-                                        <div class='separate'></div>
-                                        <div class='callout_text'>
-                                            <p>Want to get more information about our learning center or would like to see it inside, feel free to schedule&nbsp;a tour.
-                                                <br /> Come visit us today!</p>
-                                        </div>
-                                    </div>
-                                    <div class='button_section'><a href='#' class='cws_button xlarge'>Schedule a Tour Now<div class='button-shadow'></div></a></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- / section -->
                 </main>
                 <!-- pettaren container / -->
                 <div class='right-pattern pattern pattern-2'></div>

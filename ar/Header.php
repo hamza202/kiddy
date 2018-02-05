@@ -1,5 +1,5 @@
-<div class='header_cont'>
-    <div class='header_mask'>
+<div class='header_cont' dir="ltr">
+    <div class='header_mask' >
         <div class='header_pattern'></div>
     </div>
     <header class='site_header logo-in-menu' data-menu-after="3">
@@ -19,11 +19,12 @@
                         <ul id="menu-main-menu" class="main-menu menu-bees">
                             <!-- menu item -->
                             <li class="menu-item  bees-start">
-                                <a href="index.php">
+                                <a href="about.php">
                                     <div class="bees bees-start"><span></span>
                                         <div class="line-one"></div>
                                         <div class="line-two"></div>
-                                    </div>Home
+                                    </div>
+                                    تواصل معنا
                                     <div class="canvas_wrapper">
                                         <canvas class="menu_dashed"></canvas>
                                     </div>
@@ -31,29 +32,30 @@
                             </li>
                             <!-- / menu item -->
                             <!-- menu item -->
-                            <li class="menu-item menu-item-has-children"><a href="about.php">About Us<div class="canvas_wrapper"><canvas class="menu_dashed"></canvas></div></a>
+                            <li class="menu-item menu-item-has-children"><a href="news.php">الأخبار<div class="canvas_wrapper"><canvas class="menu_dashed"></canvas></div></a>
                             </li>
                             <!-- / menu item -->
                             <!-- menu item -->
-                            <li class="menu-item menu-item-has-children"><a href="features.php">Programs<div class="canvas_wrapper"><canvas class="menu_dashed"></canvas></div></a>
+                            <li class="menu-item menu-item-has-children"><a href="gallery.php">معرض الصور<div class="canvas_wrapper"><canvas class="menu_dashed"></canvas></div></a>
                             </li>
                             <!-- / menu item -->
                             <!-- menu item -->
-                            <li class="menu-item menu-item-has-children right"><a href="gallery.php">Gallery<div class="canvas_wrapper"><canvas class="menu_dashed"></canvas></div></a>
+                            <li class="menu-item menu-item-has-children right"><a href="features.php">البرامج<div class="canvas_wrapper"><canvas class="menu_dashed"></canvas></div></a>
                             </li>
                             <!-- / menu item -->
                             <!-- menu item -->
-                            <li class="menu-item menu-item-has-children right"><a href="news.php">News<div class="canvas_wrapper"><canvas class="menu_dashed"></canvas></div></a>
+                            <li class="menu-item menu-item-has-children right"><a href="about.php">من نحن<div class="canvas_wrapper"><canvas class="menu_dashed"></canvas></div></a>
 
                             </li>
                             <!-- / menu item -->
                             <!-- menu item -->
                             <li class="menu-item right bees-end">
-                                <a href="contact.php">
+                                <a href="index.php">
                                     <div class="bees bees-end"><span></span>
                                         <div class="line-one"></div>
                                         <div class="line-two"></div>
-                                    </div>Contact
+                                    </div>
+                                    الرئيسية
                                     <div class="canvas_wrapper">
                                         <canvas class="menu_dashed"></canvas>
                                     </div>

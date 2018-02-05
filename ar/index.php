@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" href="img/cropped-favicon-192x192.png" />
     <title>Kiddy - Children HTML Template</title>
-    <link rel='stylesheet' href='css/bootstrap.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='css/bootstrap-rtl.min.css' type='text/css' media='all' />
     <link rel='stylesheet' href='revslider/css/settings.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/font-awesome.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/jquery.fancybox.css' type='text/css' media='all' />
@@ -43,9 +43,9 @@
 
             <?php include ('Header.php')?>
 
-            <div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container">
+            <div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container " dir="ltr">
                 <!-- START REVOLUTION SLIDER 5.0.9 fullwidth mode -->
-                <div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.0.9">
+                <div id="rev_slider_1_1" class="rev_slider fullwidthabanner " style="display:none;" data-version="5.0.9">
                     <ul>
                         <!-- SLIDE  -->
                         <li data-index="rs-1" data-transition="random,fade" data-slotamount="7,7" data-easein="default,default" data-easeout="default,default" data-masterspeed="300,500" data-thumb="pic/2015/09/dots-pattern-100x50.png" data-rotate="0,0" data-saveperformance="off" data-title="Slide" data-description="">
@@ -56,19 +56,13 @@
                             <div class="tp-caption   tp-resizeme rs-parallaxlevel-0" id="slide-1-layer-23" data-x="center" data-hoffset="" data-y="center" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="990" data-responsive_offset="on" style="z-index: 5;"><img src="pic/revslider/general/sunshine_home1.png" alt="" width="1920" height="650" data-ww="1920px" data-hh="650px" data-no-retina>
                             </div>
                             <!-- LAYER NR. 2 -->
-                            <div class="tp-caption home-h2   tp-resizeme rs-parallaxlevel-9" id="slide-1-layer-1" data-x="30" data-y="213" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; white-space: nowrap;">Welcome to
-                            </div>
-                            <!-- LAYER NR. 3 -->
-                            <div class="tp-caption home-h1   tp-resizeme rs-parallaxlevel-9" id="slide-1-layer-2" data-x="30" data-y="275" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;">KIDDY!
+                            <div class="tp-caption home-h2   tp-resizeme rs-parallaxlevel-9" id="slide-1-layer-1" data-x="20" data-y="213" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; text-align: right; white-space: nowrap; width: 400px;">حمزة
                             </div>
                             <!-- LAYER NR. 4 -->
-                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-22" data-x="30" data-y="345" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-responsive_offset="on" style="z-index: 8;border-color:rgba(0, 0, 0, 1.00);"><img src="pic/revslider/general/slider_devider.png" alt="" width="300" height="8" data-ww="300px" data-hh="8px" data-no-retina>
+                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-22" data-x="120" data-y="280" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-responsive_offset="on" style="z-index: 8;border-color:rgba(0, 0, 0, 1.00);"><img src="pic/revslider/general/slider_devider.png" alt="" width="300" height="8" data-ww="300px" data-hh="8px" data-no-retina>
                             </div>
                             <!-- LAYER NR. 5 -->
-                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-3" data-x="30" data-y="385" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 9; white-space: nowrap; color: rgba(255, 255, 255, 1.00);font-family:Patrick Hand;border-color:rgba(0, 0, 0, 1.00);">A perfect learning center
-                            </div>
-                            <!-- LAYER NR. 6 -->
-                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-4" data-x="29" data-y="413" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 10; white-space: nowrap; color: rgba(255, 255, 255, 1.00);font-family:Patrick Hand;border-color:rgba(0, 0, 0, 1.00);">for your kids
+                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-3" data-x="20" data-y="310" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 9; white-space: normal; color: rgba(255, 255, 255, 1.00);font-family:Patrick Hand;border-color:rgba(0, 0, 0, 1.00); width:400px; text-align: right">A perfect learning centerA perfect learning center
                             </div>
                             <!-- LAYER NR. 7 -->
                             <div class="tp-caption   tp-resizeme rs-parallaxlevel-10" id="slide-1-layer-5" data-x="-36" data-y="589" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:290;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="500" data-responsive_offset="on" style="z-index: 11;"><img src="pic/revslider/general/grass.png" alt="" width="1469" height="162" data-ww="1484px" data-hh="130px" data-no-retina>
@@ -128,19 +122,13 @@
                             <div class="tp-caption   tp-resizeme rs-parallaxlevel-0" id="slide-1-layer-23" data-x="center" data-hoffset="" data-y="center" data-voffset="" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="990" data-responsive_offset="on" style="z-index: 5;"><img src="pic/revslider/general/sunshine_home1.png" alt="" width="1920" height="650" data-ww="1920px" data-hh="650px" data-no-retina>
                             </div>
                             <!-- LAYER NR. 2 -->
-                            <div class="tp-caption home-h2   tp-resizeme rs-parallaxlevel-9" id="slide-1-layer-1" data-x="30" data-y="213" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; white-space: nowrap;">Welcome to
-                            </div>
-                            <!-- LAYER NR. 3 -->
-                            <div class="tp-caption home-h1   tp-resizeme rs-parallaxlevel-9" id="slide-1-layer-2" data-x="30" data-y="275" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;">KIDDY!
+                            <div class="tp-caption home-h2   tp-resizeme rs-parallaxlevel-9" id="slide-1-layer-1" data-x="20" data-y="213" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; text-align: right; white-space: nowrap; width: 400px;">حمزة
                             </div>
                             <!-- LAYER NR. 4 -->
-                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-22" data-x="30" data-y="345" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-responsive_offset="on" style="z-index: 8;border-color:rgba(0, 0, 0, 1.00);"><img src="pic/revslider/general/slider_devider.png" alt="" width="300" height="8" data-ww="300px" data-hh="8px" data-no-retina>
+                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-22" data-x="120" data-y="280" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-responsive_offset="on" style="z-index: 8;border-color:rgba(0, 0, 0, 1.00);"><img src="pic/revslider/general/slider_devider.png" alt="" width="300" height="8" data-ww="300px" data-hh="8px" data-no-retina>
                             </div>
                             <!-- LAYER NR. 5 -->
-                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-3" data-x="30" data-y="385" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 9; white-space: nowrap; color: rgba(255, 255, 255, 1.00);font-family:Patrick Hand;border-color:rgba(0, 0, 0, 1.00);">A perfect learning center
-                            </div>
-                            <!-- LAYER NR. 6 -->
-                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-4" data-x="29" data-y="413" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 10; white-space: nowrap; color: rgba(255, 255, 255, 1.00);font-family:Patrick Hand;border-color:rgba(0, 0, 0, 1.00);">for your kids
+                            <div class="tp-caption home-general-font   tp-resizeme rs-parallaxlevel-9 none-visible-mobile" id="slide-1-layer-3" data-x="20" data-y="310" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 9; white-space: normal; color: rgba(255, 255, 255, 1.00);font-family:Patrick Hand;border-color:rgba(0, 0, 0, 1.00); width:400px; text-align: right">A perfect learning centerA perfect learning center
                             </div>
                             <!-- LAYER NR. 7 -->
                             <div class="tp-caption   tp-resizeme rs-parallaxlevel-10" id="slide-1-layer-5" data-x="-36" data-y="589" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:290;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="500" data-responsive_offset="on" style="z-index: 11;"><img src="pic/revslider/general/grass.png" alt="" width="1469" height="162" data-ww="1484px" data-hh="130px" data-no-retina>
@@ -272,26 +260,26 @@
                 <main>
                     <!-- section -->
                     <div class='grid_row clearfix' style='padding-top: 30px;'>
-                        <div class='grid_col grid_col_8'>
-                            <!-- about us -->
-                            <div class='ce clearfix'>
-                                <div>
-                                    <h3 class="ce_title">A Few Words About <span >Our Center</span></h3>
-                                    <p>Libero commodo, ornare mi id, egestas metus. Vivamus condimentum elit vel vestibulum feugiat Aliquam semper nunc augue, vitae fringilla felis adipiscing ac. Duis convallis nibh at euismod molestie.</p>
-                                    <ul class="checkmarks_style">
-                                        <li>Aenean tincidunt laoreet odio at vulputate, sed pretium lorem sed nulla pulvinar gravida</li>
-                                        <li>Suspendisse in risus a odio porta commodo felis, in condimentum, risus eget venenatis</li>
-                                        <li>Praesent at sem vitae lacus iaculis aliquam eget, ivamus justo odio, dictum fermentum sapien</li>
-                                    </ul>
-                                    <a href='page-about-us.html' class='cws_button small'>More About Us</a>
-                                </div>
-                            </div>
-                            <!-- / about us -->
-                        </div>
                         <div class='grid_col grid_col_4'>
                             <div class='ce clearfix'>
                                 <div><img class="noborder alignnone image-type size-full" src="pic/2015/04/kid_playing.jpg" alt="kid_playing" width="385" height="373" /></div>
                             </div>
+                        </div>
+                        <div class='grid_col grid_col_8'>
+                            <!-- about us -->
+                            <div class='ce clearfix'>
+                                <div>
+                                    <h3 class="ce_title">نبذه بسيطه عن الروضة</h3>
+                                    <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.</p>
+                                    <ul class="checkmarks_style">
+                                        <li>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص</li>
+                                        <li>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص</li>
+                                        <li>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص</li>
+                                    </ul>
+                                    <a href='page-about-us.html' class='cws_button small'>المزيد</a>
+                                </div>
+                            </div>
+                            <!-- / about us -->
                         </div>
                     </div>
                     <!-- / section -->
@@ -311,7 +299,7 @@
                         <div class='grid_col grid_col_12'>
                             <div class='ce clearfix'>
                                 <div>
-                                    <h3 class="ce_title" style="text-align: center;">Our center provides <span >the following services</span></h3>
+                                    <h3 class="ce_title" style="text-align: center;">الخدمات التي نقدمها</h3>
                                 </div>
                             </div>
                         </div>
@@ -327,12 +315,12 @@
                                         <div class='cws_fa_wrapper round'><i class='cws_fa fa fa-1x fa-university'></i><span class='ring'></span></div>
                                     </div>
                                     <div class='cws_fa_tbl_cell'>
-                                        <h2>Learn through play</h2></div>
+                                        <h2>تعلم من خلال اللعب</h2></div>
                                 </div>
                                 <div class='cws_fa_tbl_row'>
                                     <div class='cws_fa_tbl_cell'></div>
                                     <div class='cws_fa_tbl_cell'>
-                                        <p>Mi id egestas metus neus, vivamus condimentum elit</div>
+                                        <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة</div>
                                 </div>
                             </div>
                         </div>
@@ -343,12 +331,12 @@
                                     <div class='cws_fa_wrapper round'><i class='cws_fa fa fa-1x fa-book'></i><span class='ring'></span></div>
                                 </div>
                                 <div class='cws_fa_tbl_cell'>
-                                    <h2>Education Services</h2></div>
+                                    <h2>خدمات التعليم</h2></div>
                             </div>
                             <div class='cws_fa_tbl_row'>
                                 <div class='cws_fa_tbl_cell'></div>
                                 <div class='cws_fa_tbl_cell'>
-                                    <p>Congue ullamcorper scale, curabitur ultricies lacus</div>
+                                    <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة</div>
                             </div>
                         </div>
                         </div>
@@ -359,12 +347,12 @@
                                         <div class='cws_fa_wrapper round'><i class='cws_fa fa fa-1x fa-cubes'></i><span class='ring'></span></div>
                                     </div>
                                     <div class='cws_fa_tbl_cell'>
-                                        <h2>Toys and Games</h2></div>
+                                        <h2>الألعاب والفعاليات</h2></div>
                                 </div>
                                 <div class='cws_fa_tbl_row'>
                                     <div class='cws_fa_tbl_cell'></div>
                                     <div class='cws_fa_tbl_cell'>
-                                        <p>Nec facilisis at, mattis nec est, morbi eget velit justo congue</div>
+                                        <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة</div>
                                 </div>
                             </div>
                         </div>
@@ -375,12 +363,12 @@
                                         <div class='cws_fa_wrapper round'><i class='cws_fa fa fa-1x fa-heart'></i><span class='ring'></span></div>
                                     </div>
                                     <div class='cws_fa_tbl_cell'>
-                                        <h2>Love and Care</h2></div>
+                                        <h2>المحبة والأهتمام</h2></div>
                                 </div>
                                 <div class='cws_fa_tbl_row'>
                                     <div class='cws_fa_tbl_cell'></div>
                                     <div class='cws_fa_tbl_cell'>
-                                        <p>Elit ve vestibulum feugiat, aliquam semper nunc xaugue</div>
+                                        <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة</div>
                                 </div>
                             </div>
                         </div>
@@ -391,12 +379,12 @@
                                         <div class='cws_fa_wrapper round'><i class='cws_fa fa fa-1x fa-users'></i><span class='ring'></span></div>
                                     </div>
                                     <div class='cws_fa_tbl_cell'>
-                                        <h2>Physical Activity</h2></div>
+                                        <h2>النشاط البدني</h2></div>
                                 </div>
                                 <div class='cws_fa_tbl_row'>
                                     <div class='cws_fa_tbl_cell'></div>
                                     <div class='cws_fa_tbl_cell'>
-                                        <p>Congue uhasellus id scale justo adipiscin gultricies</div>
+                                        <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة</div>
                                 </div>
                             </div>
                         </div>
@@ -419,11 +407,7 @@
                         <div class='grid_col grid_col_12'>
                             <div class='ce clearfix'>
                                 <div>
-                                    <h3 class="ce_title" style="text-align: center;">We are <span >Kiddy</span><br /> Children HTML Template</h3>
-                                    <p style="text-align: center;">Libero commodo, ornare mi id, egestas metus.
-                                        <br /> Vivamus condimentum elit vel vestibulum feugiat Aliquam
-                                        <br /> semper nunc augue, vitae fringilla felis adipiscing ac.</p>
-                                    <p style="text-align: center;">  <a href='#' class='cws_button'>Learn More</a>
+                                    <h3 class="ce_title" style="text-align: center;"><span >معرض الصور</span><br /></h3>
                                 </div>
                             </div>
                         </div>
@@ -479,30 +463,12 @@
                                         <br style="clear: both" />
                                     </div>
                                 </div>
+                                <p style="text-align: center;">  <a href='#' class='cws_button'>المزيد</a></p>
                             </div>
                         </div>
                     </div>
                     <!-- / gallery section -->
-                    <!-- section -->
-                    <div class='grid_row clearfix' style='padding-top: 50px;padding-bottom: 50px;'>
-                        <div class='grid_col grid_col_12'>
-                            <div class='ce clearfix'>
-                                <div class='cws_callout'>
-                                    <div class='content_section'>
-                                        <div class='callout_title'>
-                                            <div class="bees bees-end"><span></span></div>STILL NOT CONVINCED?</div>
-                                        <div class='separate'></div>
-                                        <div class='callout_text'>
-                                            <p>Want to get more information about our learning center or would like to see it inside, feel free to schedule&nbsp;a tour.
-                                                <br /> Come visit us today!</p>
-                                        </div>
-                                    </div>
-                                    <div class='button_section'><a href='#' class='cws_button xlarge'>Schedule a Tour Now<div class='button-shadow'></div></a></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- / section -->
+
                 </main>
                 <!-- pettaren container / -->
                 <div class='right-pattern pattern pattern-2'></div>

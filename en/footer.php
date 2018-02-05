@@ -206,7 +206,7 @@
         <!-- / canvas -->
         <div class='container'>
             <div class='copyrights_container'>
-                <div class='copyrights'>Copyrights ©2016: Kiddy - Premium Children HTML Template</div>
+                <div class='copyrights'> ©2016: Kiddy - Premium Children HTML Template</div>
                 <div class='copyrights_panel'>
                     <div class='copyrights_panel_wrapper'>
                         <div class="lang_bar">
@@ -217,7 +217,7 @@
                                         </a>
                                         <ul>
                                             <li class="icl-fr">
-                                                <a href="#"><img class="iclflag" src="img/1.jpg" alt="ar" title="العربية" />&nbsp;العربية</a>
+                                                <a href="../ar"><img class="iclflag" src="img/1.jpg" alt="ar" title="العربية" />&nbsp;العربية</a>
                                             </li>
 
                                         </ul>
@@ -236,16 +236,3 @@
 </div>
 <!-- #page -->
 <div class='scroll_top animated'></div>
-<div id="lang_sel_footer">
-    <ul>
-        <li>
-            <a href="index.html" class="lang_sel_sel"><img src="img/en.png" alt="English" class="iclflag" title="English" />&nbsp;English</a>
-        </li>
-        <li>
-            <a href="#"><img src="img/fr.png" alt="Français" class="iclflag" title="Français" />&nbsp;Français</a>
-        </li>
-        <li>
-            <a href="#"><img src="img/de.png" alt="Deutsch" class="iclflag" title="Deutsch" />&nbsp;Deutsch</a>
-        </li>
-    </ul>
-</div>

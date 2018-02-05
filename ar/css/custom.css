@@ -7,7 +7,7 @@
 }
 .fast-link li:hover i{
     color: #26b4d7;
-    padding-left: 5px;
+    padding-right: 5px;
 }
 .fast-link li i{
     transition: all 0.5s;
@@ -19,4 +19,69 @@
 }
 .copyrights_area .cws_social_links .cws_social_link{
     width: 28px;
+}
+body{
+    direction: rtl !important;
+}
+.main-nav-container .main-menu>.menu-item>a{
+    padding: 15px 22px;
+}
+.site_top_panel #top_panel_text i.fa{
+    padding-right: 20px;
+    padding-left: 8px;
+}
+ul.checkmarks_style li:before {
+    content: "";
+}
+ul.checkmarks_style li:after {
+    content: "\f00c";
+    font-family: FontAwesome;
+    color: #26b4d7 ;
+    padding-left: 5px;
+}
+.cws_fa_tbl .cws_fa_wrapper{
+    margin-right: 0;
+    margin-left: 20px;
+}
+.post_preview{
+    direction: rtl;
+    text-align: right;
+}
+.post_item .post_thumb_wrapp{
+    margin-right: 0;
+    margin-left: 8px;
+    float: right;
+}
+.footer_container .cws-widget .post_item .post_date{
+    text-align: right;
+}
+.footer_container .cws-widget ul li{
+    text-align: right;
+}
+.textwidget input,
+.textwidget textarea{
+    text-align: right;
+    color: #fff;
+}
+.textwidget input::placeholder,
+.textwidget textarea::placeholder{
+    color: #fff;
+}
+.footer_container .cws-widget > ul > li:first-child{
+    margin-top: 10px;
+}
+.copyrights_panel_wrapper > * + * {
+    margin-right: 8px;
+    padding-right: 15px;
+    border-right: 1px solid rgba(255, 255, 255, 0.12);
+    margin-left: 0;
+    padding-left: 0;
+    border-left: 0;
+}
+.cws_social_links .cws_social_link + .cws_social_link{
+    margin-right: 3px;
+    margin-left: 0;
+}
+.bread-crumbs{
+    text-align: left;
 }

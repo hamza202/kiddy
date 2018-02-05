@@ -48,8 +48,12 @@
         <section class="page_title wave">
             <div class="container">
                 <div class="title">
-                    <h1>Page</h1></div>
-                <nav class="bread-crumbs"><a href="index.html">Home</a><i class="delimiter fa fa-chevron-right"></i><span class="current">Page</span></nav>
+                    <h1>من نحن</h1></div>
+                <nav class="bread-crumbs">
+                    <span class="current">من نحن</span>
+                    <i class="delimiter fa fa-chevron-right"></i>
+                    <a href="index.php">الرئيسية</a>
+                </nav>
                 <!-- .breadcrumbs -->
             </div>
             <canvas class="breadcrumbs" data-bg-color="#f8f2dc" data-line-color="#f9e8b2" height="71" width="1366" style="height: 71px; width: 1366px;"></canvas>
@@ -69,103 +73,62 @@
                 <main>
                     <!-- content section -->
                     <div class='grid_row clearfix'>
-                        <div class='grid_col grid_col_6'>
-                            <div class='ce clearfix'>
-                                <h3 class="ce_title">Who We Are</h3>
-                                <div>
-                                    <p><img class="size-medium image-type alignleft" src="pic/2015/03/our_team_2-300x300.jpg" width="150" height="150" alt="our_team_2" />Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam dapibus accumsan enim, ac pulvinar lacus. Maecenas iaculis vulputate enim viverra vulputate. Duis pharetra purus sit amet libero auctor, sit amet interdum metus tincidunt. Nunc fermentum tincidunt odio non feugiat. Phasellus eget risus enim.</p>
-                                    <p>Fusce vel nulla auctor, fringilla nibh pretium, convallis felis. Vivamus consequat ligula et est semper rutrum. Vestibulum luctus elit gravida tempor mollis. Maecenas scelerisque enim non magna molestie, sit amet laoreet metus suscipit. Nullam eget auctor est. Donec metus ipsum, sodales quis elit vitae, vulputate laoreet diam. Integer consequat eleifend libero, ac consectetur tellus luctus in.</p>
-                                    <p>&nbsp;</p>
-                                </div>
-                            </div>
-                        </div>
                         <!-- accordion -->
                         <div class='grid_col grid_col_6'>
                             <div class='ce clearfix'>
-                                <h3 class="ce_title">What We Do</h3>
+                                <h3 class="ce_title">ماذا نقدم</h3>
                                 <div class='cws_ce_content ce_accordion'>
                                     <div class='accordion_section active'>
-                                        <div class='accordion_title'><i class='accordion_icon'></i><span>Sed ac nibh id lectus tincidunt vulputate ullamcorper in dui.</span></div>
+                                        <div class='accordion_title'><i class='accordion_icon'></i><span>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة</span></div>
                                         <div class='accordion_content'>
-                                            <p>Pellentesque eget odio a tortor dignissim laoreet sed ac erat. Aenean egestas ultrices turpis, et egestas lectus rhoncus vel. Curabitur mattis nibh in turpis imperdiet rutrum. Pellentesque elementum urna malesuada, dignissim massa vel, mollis leo.</p>
+                                            <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+                                                إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.
+                                            </p>
                                         </div>
                                     </div>
                                     <div class='accordion_section'>
-                                        <div class='accordion_title'><i class='accordion_icon'></i><span>Donec non dolor ultricies, consequat sapien a, ultrices est.</span></div>
+                                        <div class='accordion_title'><i class='accordion_icon'></i><span>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة</span></div>
                                         <div class='accordion_content' style='display:none;'>
-                                            <p>Curabitur mattis nibh in turpis imperdiet rutrum. Pellentesque elementum urna malesuada, dignissim massa vel, mollis leo. Ut purus nisl, hendrerit eu aliquam vitae, elementum ut arcu. Ut sit amet mattis mi. Vestibulum vel aliquet sapien.</p>
+                                            <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+                                                إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.</p>
                                         </div>
                                     </div>
                                     <div class='accordion_section'>
-                                        <div class='accordion_title'><i class='accordion_icon'></i><span>In et pretium sem. Integer gravida enim a lacus.</span></div>
-                                        <div class='accordion_content' style='display:none;'>Curabitur mattis nibh in turpis imperdiet rutrum. Pellentesque elementum urna malesuada, dignissim massa vel, mollis leo. Ut purus nisl, hendrerit eu aliquam vitae, elementum ut arcu. Ut sit amet mattis mi.</div>
+                                        <div class='accordion_title'><i class='accordion_icon'></i><span>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة</span></div>
+                                        <div class='accordion_content' style='display:none;'>
+                                            <p><p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+                                                إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.</p></p>
+                                        </div>
                                     </div>
                                     <div class='accordion_section'>
-                                        <div class='accordion_title'><i class='accordion_icon'></i><span>Cras vitae vehicula lectus, eu aliquet leo. Sed congue ornare.</span></div>
-                                        <div class='accordion_content' style='display:none;'>Ut purus nisl, hendrerit eu aliquam vitae, elementum ut arcu. Ut sit amet mattis mi. Vestibulum vel aliquet sapien. Quisque tempor elementum diam at imperdiet. Suspendisse malesuada pretium orci sed posuere.</div>
+                                        <div class='accordion_title'><i class='accordion_icon'></i><span>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة</span></div>
+                                        <div class='accordion_content' style='display:none;'>
+                                            <p>
+                                            <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+                                                إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.</p>
+                                            </p>
+                                        </div>
                                     </div>
                                     <div class='accordion_section'>
-                                        <div class='accordion_title'><i class='accordion_icon'></i><span>Etiam varius, sapien quis aliquet pulvinar.</span></div>
-                                        <div class='accordion_content' style='display:none;'>Curabitur mattis nibh in turpis imperdiet rutrum. Pellentesque elementum urna malesuada, dignissim massa vel, mollis leo. Ut purus nisl, hendrerit eu aliquam vitae, elementum ut arcu. Ut sit amet mattis mi.</div>
+                                        <div class='accordion_title'><i class='accordion_icon'></i><span>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة</span></div>
+                                        <div class='accordion_content' style='display:none;'>
+                                            <p><p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+                                                إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.</p></p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <!-- / accordion -->
-                    </div>
-                    <!-- / content section -->
-                    <!-- text section -->
-                    <div class='grid_row clearfix'>
-                        <div class='grid_col grid_col_12'>
+                        <div class='grid_col grid_col_6'>
                             <div class='ce clearfix'>
-                                <h3 class="ce_title" style="text-align: center;">Services and Capabilities</h3>
+                                <h3 class="ce_title">من نحن</h3>
                                 <div>
-                                    <p style="text-align: center;">Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque dolor lectus, consectetur ut condimentum at, lobortis et sapien. Donec eu cursus ligula. Phasellus augue quam, eleifend vitae velit ac, pharetra blandit velit. Vivamus convallis magna at sodales mollis. Integer eu leo quis justo dapibus aliquet.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- / text section -->
-                    <!-- content section -->
-                    <div class='grid_row clearfix'>
-                        <div class='grid_col grid_col_3'>
-                            <div class='ce clearfix'>
-                                <div>
-                                    <p style="text-align: center;"><span class='cws_fa_wrapper'><i class='cws_fa fa fa-4x fa-flask'></i><span class='ring'></span></span>
-                                    <p style="text-align: center;"><strong>Flat Design</strong>
-                                        <br /> Clean design, inspired by iOS 8.
-                                        <br /> Complete with &#8220;flat&#8221; graphics.</p>
-                                    <p style="text-align: center;"><a href="#" class="cws_button mini">More</a></p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class='grid_col grid_col_3'>
-                            <div class='ce clearfix'>
-                                <div>
-                                    <p style="text-align: center;"><span class='cws_fa_wrapper'><i class='cws_fa fa fa-4x fa-magic'></i><span class='ring'></span></span>
-                                    <p style="text-align: center;"><strong>Extensive Style Options</strong>
-                                        <br />Create YOUR OWN color scheme within a few seconds using built!</p>
-                                    <p style="text-align: center;"><a href="#" class="cws_button mini">More</a></p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class='grid_col grid_col_3'>
-                            <div class='ce clearfix'>
-                                <div>
-                                    <p style="text-align: center;"><span class='cws_fa_wrapper'><i class='cws_fa fa fa-4x fa-trophy'></i><span class='ring'></span></span>
-                                    <p style="text-align: center;"><strong>Parallax Sections</strong>
-                                        <br />The theme includes Parallax Effect sections which make the website.</p>
-                                    <p style="text-align: center;"><a href="#" class="cws_button mini">More</a></p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class='grid_col grid_col_3'>
-                            <div class='ce clearfix'>
-                                <div>
-                                    <p style="text-align: center;"><span class='cws_fa_wrapper'><i class='cws_fa fa fa-4x fa-cog'></i><span class='ring'></span></span>
-                                    <p style="text-align: center;"><strong>Retina Ready</strong>
-                                        <br />This product provides responsive and flexible layout. HiDPI images.</p>
-                                    <p style="text-align: center;"><a href="#" class="cws_button mini">More</a></p>
+                                    <p><img class="size-medium image-type alignleft" src="pic/2015/03/our_team_2-300x300.jpg" width="150" height="150" alt="our_team_2" />هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+                                        إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.
+                                        هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+                                        إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.
+                                    </p>
                                 </div>
                             </div>
                         </div>

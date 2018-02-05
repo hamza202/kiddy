@@ -6,7 +6,7 @@
     <!-- / canvas -->
     <div class='container'>
         <div class='row_text_search'>
-            <div id='top_panel_text'><a href="tel:1-800-123-45678"><i class="fa fa-phone-square"></i> 1-800-123-45678 </a>;
+            <div id='top_panel_text'><a href="tel:1-800-123-45678"><i class="fa fa-phone-square"></i> 1-800-123-45678 </a>
                 <a href="mailto:info@info.com"> <i class="fa fa-envelope-o"></i><span class="__cf_email__">info@info.com</span></a>
             </div>
         </div>
@@ -19,7 +19,7 @@
                             </a>
                             <ul>
                                 <li class="icl-fr">
-                                    <a href="#"><img class="iclflag" src="img/1.jpg" alt="ar" title="العربية" />&nbsp;العربية</a>
+                                    <a href="../ar"><img class="iclflag" src="img/1.jpg" alt="ar" title="العربية" />&nbsp;العربية</a>
                                 </li>
 
                             </ul>
