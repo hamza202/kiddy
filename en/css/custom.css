@@ -20,3 +20,6 @@
 .copyrights_area .cws_social_links .cws_social_link{
     width: 28px;
 }
+.main-nav-container .main-menu>.menu-item>a{
+    text-decoration: none;
+}

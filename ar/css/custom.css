@@ -31,13 +31,14 @@ body{
     padding-left: 8px;
 }
 ul.checkmarks_style li:before {
-    content: "";
+    content: "" !important;
 }
 ul.checkmarks_style li:after {
     content: "\f00c";
     font-family: FontAwesome;
     color: #26b4d7 ;
     padding-left: 5px;
+    float: right;
 }
 .cws_fa_tbl .cws_fa_wrapper{
     margin-right: 0;
@@ -84,4 +85,7 @@ ul.checkmarks_style li:after {
 }
 .bread-crumbs{
     text-align: left;
+}
+.main-nav-container .main-menu>.menu-item>a{
+    text-decoration: none;
 }

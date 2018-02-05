@@ -204,12 +204,12 @@
                         <div class="widget-title">
                             <div class='widget_title_box'>
                                 <div class='widget_title_icon_section'><img src='img/games-304vqrsdsyjt42zxc5ydxm.png' data-at2x='img/games-304vqrsdsyjt42zxc5ydxm@2x.png' alt /></div>
-                                <div class='widget_title_text_section'>Games</div>
+                                <div class='widget_title_text_section'>الألعاب</div>
                             </div>
                         </div>
                         <div class='cws_textwidget_content'>
-                            <div class='text'>Game in early childhood is the best foundation for success in school. It develops all necessary learning skills. </div>
-                            <div class='link'><a href='#' class='cws_button small'>More</a></div>
+                            <div class='text'>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+                            </div>
                         </div>
                     </div>
                     <!-- / benefits item -->
@@ -218,13 +218,11 @@
                         <div class="widget-title">
                             <div class='widget_title_box'>
                                 <div class='widget_title_icon_section'><img src='img/activities-304vqs1fhfe8b8ybbneakq.png' data-at2x='img/activities-304vqs1fhfe8b8ybbneakq@2x.png' alt /></div>
-                                <div class='widget_title_text_section'>Activities</div>
+                                <div class='widget_title_text_section'>الأنشطة</div>
                             </div>
                         </div>
                         <div class='cws_textwidget_content'>
-                            <div class='text'>Our activities will challenge and develop
-                                <br> your child’s creativity, imagination, thinking skills, and social skills.</div>
-                            <div class='link'><a href='#' class='cws_button small'>More</a></div>
+                            <div class='text'>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.</div>
                         </div>
                     </div>
                     <!-- / benefits item -->
@@ -233,13 +231,12 @@
                         <div class="widget-title">
                             <div class='widget_title_box'>
                                 <div class='widget_title_icon_section'><img src='img/education-304vqs5ybpxf691gt0t7nu.png' data-at2x='img/education-304vqs5ybpxf691gt0t7nu@2x.png' alt /></div>
-                                <div class='widget_title_text_section'>Education</div>
+                                <div class='widget_title_text_section'>التعليم</div>
                             </div>
                         </div>
                         <div class='cws_textwidget_content'>
-                            <div class='text'>Our center provides many educational activities to keep your kids engaged. They learn when playing.
+                            <div class='text'>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
                             </div>
-                            <div class='link'><a href='#' class='cws_button small'>More</a></div>
                         </div>
                     </div>
                     <!-- / benefits item -->
