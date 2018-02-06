@@ -48,8 +48,8 @@
         <section class="page_title wave">
             <div class="container">
                 <div class="title">
-                    <h1>Page</h1></div>
-                <nav class="bread-crumbs"><a href="index.html">Home</a><i class="delimiter fa fa-chevron-right"></i><span class="current">Page</span></nav>
+                    <h1>معرض الصور</h1></div>
+                <nav class="bread-crumbs"><span class="current">معرض الصور</span><i class="delimiter fa fa-chevron-right"></i><a href="index.html">الرئيسية</a></nav>
                 <!-- .breadcrumbs -->
             </div>
             <canvas class="breadcrumbs" data-bg-color="#f8f2dc" data-line-color="#f9e8b2" height="71" width="1366" style="height: 71px; width: 1366px;"></canvas>
@@ -67,6 +67,7 @@
                 <!-- pattern container / -->
                 <div class='left-pattern pattern pattern-2'></div>
                 <!-- main content -->
+                <div class="container">
                 <main>
                     <div class='grid_row clearfix'>
                         <div class='grid_col grid_col_12'>
@@ -143,6 +144,7 @@
                         </div>
                     </div>
                 </main>
+                </div>
                 <!-- / main content -->
                 <!-- pattern container / -->
                 <div class='right-pattern pattern pattern-2'></div>

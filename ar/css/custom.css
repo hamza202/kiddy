@@ -1,3 +1,6 @@
+html, body{
+    font-size: 15px;
+}
 .lang_bar li .iclflag{
     width: 18px;
     height: 12px;
@@ -24,8 +27,10 @@ body{
     direction: rtl !important;
 }
 .main-nav-container .main-menu>.menu-item>a{
-    padding: 15px 22px;
+    padding: 15px 18px;
+    font-size: 18px;
 }
+
 .site_top_panel #top_panel_text i.fa{
     padding-right: 20px;
     padding-left: 8px;
@@ -88,4 +93,22 @@ ul.checkmarks_style li:after {
 }
 .main-nav-container .main-menu>.menu-item>a{
     text-decoration: none;
+}
+.news .grid .item.small>*{
+    margin-right: 0;
+    margin-left: 30px;
+}
+.news .media_part{
+    float: right;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.news .item.small .post_info_header{
+    text-align: right;
+}
+.cws-widget .portfolio_item_thumb{
+    margin-left: 5px;
+}
+.item .date{
+    margin-right: 30px;
 }

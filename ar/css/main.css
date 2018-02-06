@@ -1,101 +1,13 @@
-/*-----------------------------------------------------------------------------------
-
-	Template Name: Kiddy - Children HTML Template
-	Template URI: http://themeforest.net/user/CreativeWS/portfolio
-	Description: "Kiddy"
-	Author URI: http://creaws.com
-	
---------------------------------------------------------------------------------
-	-- MAIN COLOR
-	-- MENU COLOR
-	-- MENU COLOR HOVER
-	-- OUTLINE COLOR
-	-- COMMON
-		-- Alignment
-	-- FORM
-	- CONTACT FORM 
-	-- TYPOGRAPHY
-		- HEADINGS
-		- LIST
-		- BLOCKQUOTE
-		- TABLE
-		- DEFINITION LIST
-	-- SOCIAL LINKS
-	-- GRID
-	-- ROW BG VIDEO
-	- EQUAL COLUMNS
-	-- PATTERN PROPERTIES
-	-- ROW BACKGROUND SETTINGS
-	-- SELECT 2
-	-- SELECT2 ARROW
-	-- CLEARFIX
-	-- HEADER 
-	-- MENU
-	-- DISABLE MOBILE MENU
-	-- MOBILE MENU
-	-- RESET DEFAULT MENU
-	-- MOBILE MENU SWITCHER
-	-- MOBILE MENU OPENER
-	-- SUB-MENU
-	-- STICKY-MENU
-	-- BLOG
-		-- HOVER EFFECT
-		-- POST FORMATS
-			-- AUDIO 
-			-- VIDEO
-			-- LINK
-			-- GALLERY
-			-- QUOTE
-		-- PAGE TITLE
-		-- PAGINATION
-		-- LOAD MORE
-		-- NEWS LAYOUT
-		-- POST GRID
-	-- CAROUSEL
-	-- CWS Portfolio
-	-- CWS Ourteam
-	-- WIDGETS
-		-- WIDGET ARCHIVES and MENU WIDGET
-		-- WIDGET CALENDAR
-		-- WIDGET TEXT
-		-- TAGCLOUD
-		-- SEARCH WIDGET
-	-- SHORTCODES
-	-- BUTTONS
-	-- MESSAGE BOXES
-	-- MILESTONE
-	-- PROGRESS BAR
-	-- SCROLL TOP
-	-- ICON
-	-- DROPCAP
-	-- TABS
-	-- ACCORDION
-	-- TOGGLE
-	-- PRICING TABLE
-	-- PRICE
-	-- PRICING TABLE LIST
-	-- CALLOUT
-	-- RECENT COMMENTS
-	-- RECENT POST
-	-- PORTFOLIO
-	-- PORTFOLIO SINGLE
-	-- PORTFOLIO SINGLE RELATED
-	-- BENEFITS AREA
-	-- TOP PANEL
-	-- PARALLAX
-	-- COMMENTS
-	-- FLEXMAP
-	-- FOOTER
-	-- FOOTER / WIDGET TITLE
-	-- COPYRIGHTS AREA
-	-- CWS REVSLIDER
-	-- FULL SCREEN VIDEO
-	-- SEARCH
-	-- 404 PAGE
-	
-*/
-
-
+@font-face {
+    font-family: "JF Flat Regular";
+    src: url('../font/JF-Flat-regular.eot');
+    src: url('../font/JF-Flat-regular.eot?#iefix') format('embedded-opentype'),
+    url('../font/JF-Flat-regular.svg#JF Flat Regular') format('svg'),
+    url('../font/JF-Flat-regular.woff') format('woff'),
+    url('../font/JF-Flat-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
 @import url("reset.css");
 @import url("layout.css");
@@ -107,7 +19,7 @@
 .main-nav-container .menu-item a,
 .main-nav-container .menu-item .button_open,
 .mobile_menu_header {
-    font-family: Patrick Hand;
+    font-family: 'JF Flat Regular';
     font-weight: 400;
     font-size: 24px;
     line-height: 34px;
@@ -126,8 +38,7 @@
 .ce_title,
 .comments-area .comments_title,
 .comments-area .comment-reply-title {
-    font-family: Patrick Hand;
-    font-weight: 400;
+    font-family: 'JF Flat Regular';    font-weight: 400;
     font-size: 50px;
     line-height: 50px;
     color: #26b4d7;
@@ -189,8 +100,7 @@ input[type="submit"],
 .mini-cart .button,
 .not_found,
 .milestone_desc {
-    font-family: Patrick Hand !important
-}
+    font-family: 'JF Flat Regular';}
 
 div.woocommerce form p.form-row label:not(.checkbox),
 .woocommerce-tabs form p label,
@@ -206,8 +116,7 @@ div.woocommerce form p.form-row label:not(.checkbox),
 
 html,
 body {
-    font-family: Dosis;
-    font-weight: 400;
+    font-family: 'JF Flat Regular';    font-weight: 400;
     font-size: 19px;
     line-height: 26px;
     word-spacing: 0px;
@@ -226,8 +135,7 @@ a:hover,
 }
 
 .woo_mini-count span {
-    font-family: Dosis;
-}
+    font-family: 'JF Flat Regular';}
 
 abbr {
     border-bottom-color: #9f9e9e;
@@ -581,7 +489,7 @@ form.checkout h3,
 .woocommerce-page span.onsale,
 .product.woocommerce.add_to_cart_inline ins,
 .product.woocommerce.add_to_cart_inline del {
-    font-family: Patrick Hand !important;
+    font-family: 'JF Flat Regular';
 }
 
 .price ins,
@@ -1193,8 +1101,7 @@ tt,
 var,
 samp,
 pre {
-    font-family: monospace, serif;
-    font-size: 15px;
+    font-family: 'JF Flat Regular';    font-size: 15px;
     -webkit-hyphens: none;
     -moz-hyphens: none;
     -ms-hyphens: none;
@@ -7379,7 +7286,7 @@ PORTFOLIO
 
 .cws_portfolio.single.related .carousel_nav_panel span,
 .attach .carousel_nav_panel span {
-    font-family: inherit;
+    font-family: 'JF Flat Regular';
     font-size: 1.27em;
 }
 
@@ -9604,7 +9511,7 @@ img.emoji {
 .tt_event_theme_page h3,
 .tt_event_theme_page h4,
 .tt_event_theme_page h5 {
-    font-family: Dosis !important;
+    font-family: 'JF Flat Regular';
 }
 
 .tt_event_theme_page.page_content {
@@ -9653,7 +9560,7 @@ img.emoji {
 
 .widget.timetable_sidebar_box .box_header {
     margin-bottom: 0;
-    font-family: Patrick Hand !important;
+    font-family: 'JF Flat Regular';
     color: #26b4d7!important;
 }
 
@@ -9842,7 +9749,7 @@ table.tt_timetable thead th {
     background: transparent !important;
     font-size: 19px !important;
     color: #9f9e9e!important;
-    font-family: Dosis !important;
+    font-family: 'J';
 }
 
 .tt_event_items_list li.type_info {

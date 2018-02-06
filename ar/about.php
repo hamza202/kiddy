@@ -71,6 +71,7 @@
                 <!-- pattern container / -->
                 <div class='left-pattern pattern pattern-2'></div>
                 <main>
+                    <div class="container">
                     <!-- content section -->
                     <div class='grid_row clearfix'>
                         <!-- accordion -->
@@ -134,6 +135,7 @@
                         </div>
                     </div>
                     <!-- / content section -->
+                    </div>
                 </main>
                 <!-- pattern section / -->
                 <div class='right-pattern pattern pattern-2'></div>

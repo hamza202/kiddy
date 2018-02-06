@@ -19,7 +19,7 @@
                         <ul id="menu-main-menu" class="main-menu menu-bees">
                             <!-- menu item -->
                             <li class="menu-item  bees-start">
-                                <a href="about.php">
+                                <a href="contact.php">
                                     <div class="bees bees-start"><span></span>
                                         <div class="line-one"></div>
                                         <div class="line-two"></div>
