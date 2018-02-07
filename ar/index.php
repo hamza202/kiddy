@@ -256,6 +256,7 @@
                 <div class='left-pattern pattern pattern-2'></div>
                 <main>
                     <!-- section -->
+                    <div class="container">
                     <div class='grid_row clearfix' style='padding-top: 30px;'>
                         <div class='grid_col grid_col_4'>
                             <div class='ce clearfix'>
@@ -268,7 +269,7 @@
                                 <div>
                                     <h3 class="ce_title">نبذه بسيطه عن الروضة</h3>
                                     <p>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.</p>
-                                    <ul class="checkmarks_style">
+                                    <ul class="checkmarks_style list-unstyled">
                                         <li>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص</li>
                                         <li>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص</li>
                                         <li>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص</li>
@@ -278,6 +279,7 @@
                             </div>
                             <!-- / about us -->
                         </div>
+                    </div>
                     </div>
                     <!-- / section -->
                     <!-- divider -->
@@ -410,6 +412,7 @@
                         </div>
                     </div>
                     <!-- / section -->
+                    <div class="container">
                     <!-- section gallery -->
                     <div class='grid_row clearfix'>
                         <div class='grid_col grid_col_12'>
@@ -419,7 +422,7 @@
                                         <!-- gallery item -->
                                         <div class='gallery-item'>
                                             <div class='gallery-icon landscape'>
-                                                <img width="1024" height="1024" src="pic/2015/08/portfolio_3-1024x1024.jpg" class="attachment-large" alt="portfolio_3" />
+                                                <img width="1024" height="1024" src="img/patt/pat2@2x.png" class="attachment-large" alt="portfolio_3" />
                                             </div>
                                         </div>
                                         <!-- / galery item -->
@@ -465,7 +468,7 @@
                         </div>
                     </div>
                     <!-- / gallery section -->
-
+                    </div>
                 </main>
                 <!-- pettaren container / -->
                 <div class='right-pattern pattern pattern-2'></div>

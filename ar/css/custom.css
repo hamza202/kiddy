@@ -15,13 +15,12 @@ html, body{
 .fast-link li i{
     transition: all 0.5s;
 }
-.footer_container .cws-widget{
-    flex: 0;
-    -webkit-flex: 0;
-    -ms-flex: 0;
-}
+
 .copyrights_area .cws_social_links .cws_social_link{
     width: 28px;
+}
+.ce_title, .comments-area .comments_title, .comments-area .comment-reply-title{
+    font-size: 34px;
 }
 body{
     direction: rtl !important;
@@ -111,4 +110,24 @@ ul.checkmarks_style li:after {
 }
 .item .date{
     margin-right: 30px;
+}
+form.cf-form>p.text-left{
+    text-align: left !important;
+}
+form.cf-form>p{
+    text-align: right;
+}
+.contact-info h2{
+    margin-top: -15px;
+    font-size: 15px;
+}
+.contact-form .captcha-wrapper iframe{
+    height: 50px;
+    width: 70px;
+}
+.footer_container .cws-widget{
+    margin-left: 19px;
+}
+#gallery-1 img{
+    height: 24vw;
 }

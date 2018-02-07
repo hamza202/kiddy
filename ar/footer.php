@@ -9,7 +9,7 @@
         <div class='container'>
             <div class='footer_container'>
                 <!-- widget post -->
-                <div class="col-md-3 col-sm-6 col-xs-12 cws-widget">
+                <div class="cws-widget">
                     <div class="widget-title">اخبارنا</div>
                     <div class='widget_carousel' dir="ltr">
                         <div class='item'>
@@ -57,7 +57,7 @@
                 </div>
                 <!-- / widget post -->
                 <!-- twitter -->
-                <div class="col-md-3 col-sm-6 col-xs-12  cws-widget">
+                <div class="cws-widget">
                     <div class="widget-title">روابط سريعة</div>
                     <ul class="list-unstyled text-capitalize fast-link">
                         <li><a href="#">من نحن </a> <i class="fa fa-angle-left"></i></li>
@@ -69,7 +69,7 @@
                 </div>
                 <!-- / twitter -->
                 <!-- widget gallery -->
-                <div class="col-md-3 col-sm-6 col-xs-12 cws-widget">
+                <div class=" cws-widget">
                     <div class="widget-title">معرض الصور</div>
                     <div class='cws_textwidget_content'>
                         <div class='text'>
@@ -142,7 +142,7 @@
                 </div>
                 <!-- / widget gallery -->
                 <!-- conatact form -->
-                <div class="col-md-3 col-sm-6 col-xs-12 cws-widget">
+                <div class=" cws-widget">
                     <div class="widget-title">اترك رسالة</div>
                     <div class="textwidget">
                         <div role="form" class="cf" id="cf-f1705-o1" lang="en-US" dir="ltr">

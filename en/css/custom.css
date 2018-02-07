@@ -12,14 +12,16 @@
 .fast-link li i{
     transition: all 0.5s;
 }
-.footer_container .cws-widget{
-    flex: 0;
-    -webkit-flex: 0;
-    -ms-flex: 0;
-}
+
 .copyrights_area .cws_social_links .cws_social_link{
     width: 28px;
 }
 .main-nav-container .main-menu>.menu-item>a{
     text-decoration: none;
+}
+.footer_container .cws-widget{
+    margin-left: 19px;
+}
+#gallery-1 img{
+    height: 24vw;
 }
