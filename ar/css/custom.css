@@ -22,7 +22,10 @@ html, body{
 .ce_title, .comments-area .comments_title, .comments-area .comment-reply-title{
     font-size: 34px;
 }
-body{
+#main,
+.page_footer,
+.copyrights_area,
+.page_title {
     direction: rtl !important;
 }
 .main-nav-container .main-menu>.menu-item>a{

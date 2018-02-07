@@ -2,7 +2,6 @@
 <html lang="en-US">
 
 
-<!-- Mirrored from html.creaws.com/kiddy/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 03 Feb 2018 11:08:33 GMT -->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">

@@ -388,7 +388,6 @@
         </div>
         <!-- #main -->
         <?php include ('footer.php')?>
-    <script type='text/javascript' src='js/retina_1.3.0.js'></script>
     <script type='text/javascript' src='js/modernizr.js'></script>
     <script type='text/javascript' src='js/owl.carousel.js'></script>
     <script type='text/javascript' src='js/TweenMax.min.js'></script>
