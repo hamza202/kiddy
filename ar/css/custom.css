@@ -134,3 +134,6 @@ form.cf-form>p{
 #gallery-1 img{
     height: 24vw;
 }
+#startrunning{
+    display: none;
+}

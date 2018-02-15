@@ -1,4 +1,22 @@
 "use strict";
+autoPlayYouTubeModal();
+
+//FUNCTION TO GET AND AUTO PLAY YOUTUBE VIDEO FROM DATATAG
+function autoPlayYouTubeModal() {
+    var trigger = jQuery("body").find('[data-toggle="modal"]');
+    trigger.click(function () {
+        var theModal = jQuery(this).data("target"),
+            videoSRC = jQuery(this).attr("data-theVideo"),
+            videoSRCauto = videoSRC + "?autoplay=1";
+        jQuery(theModal + ' iframe').attr('src', videoSRCauto);
+        jQuery(theModal + ' button.close , .modal').click(function () {
+            jQuery(theModal + ' iframe').attr('src', videoSRC);
+        });
+    });
+}
+jQuery(document).ready(function() {
+    document.getElementById("startrunning").click();
+});
 is_visible_init ();
 cws_progress_bar_init ();
 cws_icon_popup_init ();

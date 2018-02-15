@@ -18,15 +18,7 @@
     <link rel='stylesheet' href='css/shop.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/custom.css' type='text/css' media='all' />
 
-    <script type='text/javascript' src='js/jquery.js'></script>
-    <script type='text/javascript' src='js/bootstrap.min.js'></script>
-    <script type='text/javascript' src='js/jquery-migrate.min.js'></script>
-    <script type='text/javascript' src='revslider/js/jquery.themepunch.tools.min.js'></script>
-    <script type='text/javascript' src='revslider/js/jquery.themepunch.revolution.min.js'></script>
-    <script type="text/javascript" src="revslider/js/extensions/revolution.extension.slideanims.min.js"></script>
-    <script type="text/javascript" src="revslider/js/extensions/revolution.extension.layeranimation.min.js"></script>
-    <script type="text/javascript" src="revslider/js/extensions/revolution.extension.navigation.min.js"></script>
-    <script type="text/javascript" src="revslider/js/extensions/revolution.extension.parallax.min.js"></script>    
+
     <link rel="icon" href="img/cropped-favicon-32x32.png" sizes="32x32" />
     <link rel="icon" href="img/cropped-favicon-192x192.png" sizes="192x192" />
     <link rel="apple-touch-icon-precomposed" href="img/cropped-favicon-180x180.png">
@@ -489,6 +481,18 @@
         </div>
         <!-- #main -->
         <?php include ('footer.php')?>
+
+        <script type='text/javascript' src='js/jquery.js'></script>
+        <script type='text/javascript' src='js/bootstrap.min.js'></script>
+        <script type='text/javascript' src='js/jquery-migrate.min.js'></script>
+        <script type='text/javascript' src='revslider/js/jquery.themepunch.tools.min.js'></script>
+        <script type='text/javascript' src='revslider/js/jquery.themepunch.revolution.min.js'></script>
+        <script type="text/javascript" src="revslider/js/extensions/revolution.extension.slideanims.min.js"></script>
+        <script type="text/javascript" src="revslider/js/extensions/revolution.extension.layeranimation.min.js"></script>
+        <script type="text/javascript" src="revslider/js/extensions/revolution.extension.navigation.min.js"></script>
+        <script type="text/javascript" src="revslider/js/extensions/revolution.extension.parallax.min.js"></script>
+        <a href="#" id="startrunning" class="btn btn-default" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/aadGiDqoTYo">VIDEO</a>
+
     <script type='text/javascript' src='js/modernizr.js'></script>
     <script type='text/javascript' src='js/owl.carousel.js'></script>
     <script type='text/javascript' src='js/TweenMax.min.js'></script>
